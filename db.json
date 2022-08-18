@@ -1,0 +1,30 @@
+{
+  "items": [
+    {
+      "title": "Eggs",
+      "checked": false,
+      "id": 3
+    },
+    {
+      "title": "Bread",
+      "checked": false,
+      "id": 4
+    },
+    {
+      "title": "Milk",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "title": "Potato",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "title": "Tomato",
+      "checked": false,
+      "id": 7
+    }
+  ],
+  "currId": 8
+}
