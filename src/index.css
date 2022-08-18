@@ -1,0 +1,12 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+body {
+  display: grid;
+  place-items: center;
+  background: #ccc;
+  font-size: 32px;
+}
